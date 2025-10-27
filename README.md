@@ -1,7 +1,6 @@
-### I am Nikita - AndaX - AndromedA
+### I am Nikita
 #### BACK-END DEVELOPER
 
-- 📍 From Togliatti
 - 📍 Live in Samara
 
 ### 🤝 Contact with me
